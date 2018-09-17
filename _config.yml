@@ -1,12 +1,12 @@
 # Basic
-title: 宋德凌
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 王旭
+subtitle: 个人博客
+description: 欢迎来到我的个人站
 # 头像里面的标题
 avatarTitle: songdeling
 # 头像里面的描述
 avatarDesc: java / 全栈
-url: "http://CoderOfSong.github.io"
+url: "https://x0304.github.io/"
 
 # Comment
 comment:
@@ -15,8 +15,8 @@ comment:
 
 # Social
 social:
-    weibo: 6288210001 
-    github: http://CoderOfSong.github.io
+    wechat: 15010763201
+    github: https://x0304.github.io/
     # twitter: 
     mail: ling_d_s@foxmail.com
 
@@ -36,7 +36,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/CoderOfSong/CoderOFSong.github.io
+#  帮忙star一下，感谢~😆 地址： https://x0304.github.io/
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
